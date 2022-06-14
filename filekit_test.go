@@ -1,4 +1,4 @@
-package fileutils
+package filekit
 
 import (
 	"github.com/stretchr/testify/require"
